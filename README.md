@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafique-daruwalla
 - 👀 I’m interested in Game Programming (Unity, Unreal), DeFi, C++, C#, Quant Finance, Neurocience, Astronomy, Evolution, Statistics and Probability. I enjoy debugging brain racking defects and bugs.
-- 🌱 I’m currently learning Open Zepelin
+- 🌱 I’m currently learning Open Zeppelin
 - 💞️ I’m looking to collaborate on anything that is challenging and engages the mind.
 - 📫 How to reach me rafique.daruwalla at gmail.com
 
